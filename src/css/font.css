@@ -1,22 +1,20 @@
 @font-face {
-    font-family: 'Museo Sans Cyrl';
-    src: url(/src/fonts/MuseoSansCyrl-300.ttf);
+    font-family: "Nunito";
+    src: url('../fonts/MuseoSansCyrl-300.ttf') format('truetype');
     font-weight: 300;
     font-style: normal;
 }
 
-
 @font-face {
-    font-family: 'Museo Sans Cyrl';
-    src: url(/src/fonts/MuseoSansCyrl-500.ttf);
-    font-weight: normal;
+    font-family: "Nunito";
+    src: url('../fonts/MuseoSansCyrl-500.ttf') format('truetype');
+    font-weight: 500;
     font-style: normal;
 }
 
-
 @font-face {
-    font-family: 'Museo Sans Cyrl';
-    src: url(/src/fonts/MuseoSansCyrl-700.ttf);
+    font-family: "Nunito";
+    src: url('../fonts/MuseoSansCyrl-700.ttf') format('truetype');
     font-weight: 700;
     font-style: normal;
 }
